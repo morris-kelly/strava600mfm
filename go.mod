@@ -1,3 +1,3 @@
-module github.com/morris-kelly/Strava600MFM
+module github.com/morris-kelly/strava600mfm
 
 go 1.22
